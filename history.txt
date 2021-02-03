@@ -1,0 +1,300 @@
+    1  node -v
+    2  npm i -g n
+    3  $
+    4  $
+    5  npm -windows -upgrade
+    6  npm --version
+    7  cd angular-tour-of-heroes/
+    8  ng generate component heroes
+    9  ng generate component hero-detail
+   10  ng generate service hero
+   11  ng generate component messages
+   12  ng generate service message
+   13  ng generate module app-routing --flat --module=app
+   14  ng generate component dashboard
+   15  ng new angular-tour-of-heroes
+   16  cd angular-tour-of-heroes/
+   17  ng serve --open
+   18  cd angular-tour-of-heroes/
+   19  ng serve --open
+   20  cd angular-tour-of-heroes/
+   21  ng generate service InMemoryData
+   22  npm install angular-in-memory-web-api --save
+   23  ng generate component hero-search
+   24  cd ..
+   25  ng new to-do-list
+   26  cd to-do-list/
+   27  ng serve --open
+   28  ng generate component todo
+   29  clear
+   30  cd to-do-list/
+   31  ng generate componet todo
+   32  clear
+   33  ng generate component todo
+   34  cd Desktop/
+   35  git clone https://Saidaman@bitbucket.org/solinta-dev/grant-manager.git
+   36  cd Des
+   37  cd Desktop/
+   38  cd grant-manager/
+   39  npm start:uscdev
+   40  npm start
+   41  java --version
+   42  jdk --version
+   43  ng --version
+   44  C:\autoexec.bat
+   45  cd C:\autoexec.bat
+   46  java --version
+   47  javac
+   48  javac
+   49  javac
+   50  javac
+   51  java --version
+   52  cd Documents/
+   53  cd software/
+   54  cd java/
+   55  ls
+   56  cd demo/
+   57  mvn spring-boot:run
+   58  node --version
+   59  npm install nvm
+   60  mvn spring-boot:run
+   61  mvn spring-boot:run
+   62  mvn spring-boot:run
+   63  SET PATH=%PATH%;%M2%
+   64  mvn -version
+   65  npm install mvn
+   66  mvn install -DskipTests
+   67  cd Documents/
+   68  cd software/
+   69  ls
+   70  cd java/
+   71  ls
+   72  git clone https://github.com/MrSibulali/spring-reddit-clone.git
+   73  git clone http://github.com/MrSibulali/spring-reddit-clone.git
+   74  git clone github.com/MrSibulali/spring-reddit-clone.git
+   75  git clone https://github.com/MrSibulali/spring-reddit-clone.git
+   76  git clone f https://github.com/MrSibulali/spring-reddit-clone.git
+   77  git clone https://github.com/MrSibulali/spring-reddit-clone.git
+   78  cd Documents/
+   79  cd software/
+   80  cd java/
+   81  git clone https://github.com/MrSibulali/spring-reddit-clone.git
+   82  cd Document
+   83  cd Documents/
+   84  cd software/
+   85  cd freeCodeGram/
+   86  php artisan make:auth
+   87  php artisan make:auth
+   88  php artisan
+   89  composer update
+   90  php artisan make:auth
+   91  php artisan
+   92  composer require laravel/ui
+   93  php artisan ui vue --auth
+   94  composer require laravel/ui
+   95  php artisan migrate
+   96  php artisan ui vue --auth
+   97  npm install
+   98  npm run dev
+   99  npm run dev
+  100  npm -v 
+  101  node -v
+  102  php artisan
+  103  vim database.sqlite
+  104  cd Documents/
+  105  cd software/
+  106  cd freeCodeGram/
+  107  php artisan storage:link
+  108  php artisan tinker
+  109  php artisan tinker
+  110  composer require intervention/image
+  111  php artisan
+  112  php artisan make:policy ProfilePolicy -m Profile
+  113  php artisan migrate:fresh
+  114  php artisan migrate:fresh
+  115  php artisan migrate:fresh
+  116  node -v
+  117  cd Documents/
+  118  cd software/
+  119  mkdir nodejs
+  120  cd nodejs/
+  121  ng init
+  122  node --verion
+  123  node -verion
+  124  npm install npm@latest -g
+  125  node --verion
+  126  ng init
+  127  npm init
+  128  cd Documents/
+  129  cd software/
+  130  cd nodejs/
+  131  node serve
+  132  node server
+  133  node server
+  134  node server
+  135  clear
+  136  node server
+  137  cd ..
+  138  mkdir chatapp
+  139  cd chatapp/
+  140  npm init
+  141  npm install express
+  142  npm install body-parser
+  143  npm install socket.io
+  144  npm install ejs
+  145  node server
+  146  clear'
+  147  clear
+  148  clear
+  149  node server
+  150  node server
+  151  node server
+  152  node server
+  153  node server
+  154  cd..
+  155  cd ..
+  156  npm install -g @angular/cli
+  157  ng new angular-tour-of-heroes
+  158  cd angular-tour-of-heroes/
+  159  ng serve --open
+  160  cd ..
+  161  it clone https://github.com/MrSibulali/online-store.git
+  162   git clone https://github.com/MrSibulali/online-store.git
+  163  cd online-store/
+  164  git add .
+  165  git commit -m "add back end for java applications"
+  166  git push 
+  167  git push 
+  168  cd Documents/
+  169  cd software/
+  170  cd online-store/
+  171  ng new online-store-angular
+  172  cd Documents/
+  173  cd software/
+  174  cd online-store/
+  175  ng new online-store-angular
+  176  npm cache clean --force
+  177  ng new online-store-angular
+  178  ng new online-store-angular
+  179  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html
+  180  git remote add origin ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  181  git remote add origin ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  182  git push -u origin master
+  183  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  184  git remote add origin ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  185  git remote add origin ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  186  git remote add origin ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats/
+  187  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  188  git remote add origin ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  189  clear
+  190  clear
+  191  git clone s
+  192  git clone s
+  193  git clone s
+  194  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  195  git config --local -e
+  196  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  197  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  198  git clone ssh://saidabea@saidabeats.com/home/saidabea/public_html/saidabeats
+  199  ng vesrion
+  200  ng --version
+  201  cd ..
+  202  ls
+  203  cd ..
+  204  cd ..
+  205  cd ..
+  206  ls
+  207  cd /c/Users
+  208  ls
+  209  cd SoCapX/
+  210  ls
+  211  cd Desktop/
+  212  cd apps/
+  213  ng new afrolite
+  214  cd kasimusic/
+  215  ng generate component land-page
+  216  ng generate component landing-page
+  217  cd Desktop/
+  218  ls
+  219  cd apps/
+  220  ls
+  221  cd kasimusic/
+  222  ng serve
+  223  cd Desktop/
+  224  cd apps/
+  225  ng new sofunda
+  226  cd sofunda/
+  227  npm cache clean --force
+  228  npm install
+  229  cd ..
+  230  npm cache clean --force
+  231  cd sofunda/
+  232  npm cache clean --force
+  233  npm install
+  234  npm cache clean --force
+  235  npm install
+  236  git checkout Desktop/
+  237  cd Desktop/
+  238  ls
+  239  cd apps
+  240  git clone https://github.com/Umuzi-org/Sandi-Sibulali-606-tilde-project-tutorial-how-repo-projects-work-.git
+  241  ls
+  242  cd Sandi-Sibulali-606-tilde-project-tutorial-how-repo-projects-work-/
+  243  ls
+  244  cd ..
+  245  mkdir git-basic-exercises
+  246  cd git-basic-exercises/
+  247  ls
+  248  ls -a
+  249  git init
+  250  ls -a
+  251  git status
+  252  touch README.md
+  253  ls -a
+  254  git status
+  255  git log
+  256  git add
+  257  git add .
+  258  git status
+  259  git reset -- README
+  260  git status
+  261  git reset -- README.md
+  262  git status
+  263  git checkout -- README.md
+  264  git checkout -- README
+  265  ls
+  266  git checkout -- README.md
+  267  git add .
+  268  git status
+  269  git commit -m "initial commit"
+  270  git log
+  271  q
+  272  nano README.md
+  273  cat README.md
+  274  git stats
+  275  git status
+  276  git add .
+  277  git commit -m "second commit"
+  278  nano README.md
+  279  cat README.md
+  280  git add .
+  281  git commit -m "third commit"
+  282  git log
+  283  git checkout 5bb13143757c45e71be1db799928d606bda7515e
+  284  cat README.md
+  285  git checkout master
+  286  cat README.md
+  287  git branch
+  288  git branch milkshake-flavours
+  289  git branch
+  290  git checkout milkshake-flavours 
+  291  nano milkshakes.md
+  292  git status
+  293  git add .
+  294  git commit -m "added initial flavours"
+  295  git log
+  296  git checkout master
+  297  git checkout -b history
+  298  git log
+  299  git branch
+  300  history > history.txt
